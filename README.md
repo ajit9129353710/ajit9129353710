@@ -49,51 +49,56 @@
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ajit9129353710&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajit9129353710&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ajit9129353710&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajit9129353710&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajit9129353710&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajit9129353710&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
 ## 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajit9129353710&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajit9129353710&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
 </p>
+
 
 ---
 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajit9129353710&theme=tokyonight&no-frame=true&no-bg=true&column=4" width="100%" alt="GitHub Achievements"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ajit9129353710&theme=tokyonight&no-frame=true&no-bg=true&column=4" width="100%" alt="GitHub Trophies"/>
 </p>
+
 
 ---
 
 ## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajit9129353710&repo=TEMPERATURE-CONVERTER&theme=tokyonight&hide_border=true" width="49%" alt="Temperature Converter"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajit9129353710&repo=DIGITAL-CLOCK&theme=tokyonight&hide_border=true" width="49%" alt="Digital Clock"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajit9129353710&repo=TEMPERATURE-CONVERTER&theme=tokyonight" width="49%" alt="Temperature Converter"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajit9129353710&repo=DIGITAL-CLOCK&theme=tokyonight" width="49%" alt="Digital Clock"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajit9129353710&repo=IMAGES-APP&theme=tokyonight&hide_border=true" width="49%" alt="Images App"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajit9129353710&repo=TODO-APP&theme=tokyonight&hide_border=true" width="49%" alt="Todo App"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajit9129353710&repo=IMAGES-APP&theme=tokyonight" width="49%" alt="Images App"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajit9129353710&repo=TODO-APP&theme=tokyonight" width="49%" alt="Todo App"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajit9129353710&repo=WEATHER-APP&theme=tokyonight&hide_border=true" width="49%" alt="Weather App"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajit9129353710&repo=CURRENCY-CONVERTER&theme=tokyonight&hide_border=true" width="49%" alt="Currency Converter"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajit9129353710&repo=WEATHER-APP&theme=tokyonight" width="49%" alt="Weather App"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajit9129353710&repo=CURRENCY-CONVERTER&theme=tokyonight" width="49%" alt="Currency Converter"/>
 </p>
+
 
 ---
 
