@@ -67,42 +67,27 @@
 </p>
 
 ---
+## 📈 Contribution Activity
 
-## 📈 Contribution Activity Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true"
-    alt="Contribution Activity Graph"
-    width="100%"
-  />
-</p>
+![Ajit's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajit9129353710&theme=tokyo-night&hide_border=true&area=true)
 ## 🏆 GitHub Achievements
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ajit9129353710&theme=tokyonight&no-frame=true&no-bg=true&column=4)
+---## 🚀 Featured Projects
+
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4"
-    alt="GitHub Achievements"
-    width="100%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajit9129353710&repo=TEMPERATURE-CONVERTER&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajit9129353710&repo=DIGITAL-CLOCK&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
----
-## 🚀 Featured Projects
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajit9129353710&repo=IMAGES-APP&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajit9129353710&repo=TODO-APP&theme=tokyonight&hide_border=true" width="49%" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_1">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_1&theme=tokyonight&hide_border=true"
-      alt="Featured Project 1"
-    />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_2">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_2&theme=tokyonight&hide_border=true"
-      alt="Featured Project 2"
-    />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajit9129353710&repo=WEATHER-APP&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajit9129353710&repo=CURRENCY-CONVERTER&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 ---
