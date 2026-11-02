@@ -66,13 +66,9 @@
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
----
-## 📈 Contribution Activity
+---## 📈 My Contribution Graph
 
-![Ajit's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajit9129353710&theme=tokyo-night&hide_border=true&area=true)
-## 🏆 GitHub Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ajit9129353710&theme=tokyonight&no-frame=true&no-bg=true&column=4)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajit9129353710&theme=tokyo-night)
 ---## 🚀 Featured Projects
 
 <p align="center">
