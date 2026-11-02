@@ -71,29 +71,37 @@
 ## 📈 Contribution Activity Graph
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" width="100%"/>
-  </a>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true"
+    alt="Contribution Activity Graph"
+    width="100%"
+  />
 </p>
-
----
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" alt="GitHub Trophies"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4"
+    alt="GitHub Achievements"
+    width="100%"
+  />
 </p>
 
 ---
-
 ## 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_1&theme=tokyonight&hide_border=true" alt="Featured Project 1"/>
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_1&theme=tokyonight&hide_border=true"
+      alt="Featured Project 1"
+    />
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME/PROJECT_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_2&theme=tokyonight&hide_border=true" alt="Featured Project 2"/>
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_2&theme=tokyonight&hide_border=true"
+      alt="Featured Project 2"
+    />
   </a>
 </p>
 
