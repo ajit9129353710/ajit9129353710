@@ -117,3 +117,6 @@
 ## IMAGE TEST
 
 ![Test Image](https://placehold.co/600x150/161b22/58a6ff.png?text=IMAGE+IS+WORKING)
+## IMAGE TEST
+
+![Test Image](https://placehold.co/600x150/png)
