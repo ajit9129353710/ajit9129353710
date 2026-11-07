@@ -82,26 +82,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajit9129353710&repo=TEMPERATURE-CONVERTER&theme=tokyonight" width="49%" alt="Temperature Converter"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajit9129353710&repo=DIGITAL-CLOCK&theme=tokyonight" width="49%" alt="Digital Clock"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajit9129353710&repo=IMAGES-APP&theme=tokyonight" width="49%" alt="Images App"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajit9129353710&repo=TODO-APP&theme=tokyonight" width="49%" alt="Todo App"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajit9129353710&repo=WEATHER-APP&theme=tokyonight" width="49%" alt="Weather App"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ajit9129353710&repo=CURRENCY-CONVERTER&theme=tokyonight" width="49%" alt="Currency Converter"/>
-</p>
-
-
----
-
 ## 🐍 Watch My Contributions Get Eaten!
 
 <p align="center">
