@@ -1,4 +1,4 @@
-<!-- ================= HEADER ================= --><h1 align="center">👋 Hey, I'm Ajit Prajapati</h1><h3 align="center">
+👋 Hey, I'm Ajit Prajapati</h1><h3 align="center">
   🚀 AI & Full Stack Developer | Building Smart Digital Experiences
 </h3><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;AI+%26+Full+Stack+Developer;Building+Real+World+Projects;Turning+Ideas+Into+Reality;Code.+Learn.+Build.+Repeat." alt="Typing SVG" />
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/stars/ajit9129353710?label=Total%20Stars&style=for-the-badge&color=yellow" />
 </p>---
 
-<!-- ================= ABOUT ME ================= -->💫 About Me
+💫 About Me
 
 <img align="right" alt="Coding Animation" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />Hey there! I'm Ajit Prajapati, a passionate developer from India 🇮🇳.
 
@@ -21,9 +21,8 @@
 - 🎯 Goal: Become a skilled Software Developer.
 - 📫 Email: prajapatiajit183@gmail.com
 
-<br clear="right"/>---
-
-<!-- ================= TECH STACK ================= -->🛠️ Tech Stack & Tools
+<br clear="right"/>
+---🛠️ Tech Stack & Tools
 
 💻 Programming Languages
 
@@ -46,8 +45,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
 </p>---
-
-<!-- ================= PROJECTS ================= -->🚀 Featured Projects
+🚀 Featured Projects
 
 Here are some projects I have built while learning and exploring modern technologies.
 
@@ -62,8 +60,7 @@ Project| Description
 💻 Code Practice Platform| Platform for coding practice
 
 ---
-
-<!-- ================= GITHUB STATS ================= -->📊 GitHub Analytics
+📊 GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajit9129353710&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -81,20 +78,18 @@ Project| Description
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajit9129353710&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>---
-
-<!-- ================= TROPHIES ================= -->🏆 GitHub Achievements
+🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ajit9129353710&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" width="100%" />
 </p>---
-
-<!-- ================= SNAKE ================= -->🐍 Watch My Contributions Get Eaten!
+🐍 Watch My Contributions Get Eaten!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ajit9129353710/ajit9129353710/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake Animation" />
 </p>---
 
-<!-- ================= CONNECT ================= -->🌐 Let's Connect
+🌐 Let's Connect
 
 <p align="center">
   <a href="https://github.com/ajit9129353710">
@@ -109,9 +104,9 @@ Project| Description
   <a href="mailto:prajapatiajit183@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>---
-
-<!-- ================= QUOTE ================= --><h2 align="center">💭 Developer's Mindset</h2><p align="center">
+</p>
+---
+💭 Developer's Mindset</h2><p align="center">
   <i>"First, solve the problem. Then, write the code."</i>
 </p><h3 align="center">
   🚀 Keep Learning | Keep Building | Keep Growing
