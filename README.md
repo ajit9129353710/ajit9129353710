@@ -7,9 +7,9 @@
 </p><p align="center">
   <img src="https://komarev.com/ghpvc/?username=ajit9129353710&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/ajit9129353710?style=for-the-badge&color=blue&label=FOLLOWERS"/>
-</p>---
+</p>
 
-👨‍💻 About Me
+---👨‍💻 About Me
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>Hello! I'm Ajit Prajapati, a passionate developer from India 🇮🇳.
 
@@ -24,9 +24,9 @@ I'm a Computer Science & Data Science student who loves building modern web appl
 - 🎯 Goal: Become a skilled Software Developer
 - 📫 Email: prajapatiajit183@gmail.com
 
-<br clear="right"/>---
+<br clear="right"/>
 
-⚡ My Tech Arsenal
+---⚡ My Tech Arsenal
 
 💻 Programming Languages
 
@@ -48,9 +48,9 @@ I'm a Computer Science & Data Science student who loves building modern web appl
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman"/>
-</p>---
+</p>
 
-🎯 Currently Building & Exploring
+---🎯 Currently Building & Exploring
 
 - 🤖 Improving AI-powered applications.
 - 🚀 Building modern Full Stack projects.
@@ -59,9 +59,8 @@ I'm a Computer Science & Data Science student who loves building modern web appl
 - 🌐 Improving backend development skills.
 - 💡 Learning software development best practices.
 
----
 
-🚀 Featured Projects
+---🚀 Featured Projects
 
 <p align="center">
   <i>Turning Ideas Into Real-World Applications</i>
@@ -127,9 +126,9 @@ Tech: Web Development | JavaScript
 
 </td>
 </tr>
-</table>---
+</table>
 
-🧠 My Developer Journey
+---🧠 My Developer Journey
 
 <p align="center">
   <img src="https://img.shields.io/badge/2024-Started%20Coding-007ACC?style=for-the-badge"/>
@@ -137,9 +136,9 @@ Tech: Web Development | JavaScript
   <img src="https://img.shields.io/badge/2026-Exploring%20AI%20Development-00C853?style=for-the-badge"/>
 </p>My journey is all about learning new technologies, solving problems, building projects and continuously improving my development skills.
 
----
 
-🎓 Currently Learning & Improving
+
+---🎓 Currently Learning & Improving
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Problem%20Solving-orange?style=for-the-badge&logo=java"/>
@@ -148,8 +147,8 @@ Tech: Web Development | JavaScript
   <img src="https://img.shields.io/badge/MongoDB-Database-success?style=for-the-badge&logo=mongodb"/>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DSA-Practice-red?style=for-the-badge"/>
-</p>---
-🏆 Developer Highlights
+</p>
+---🏆 Developer Highlights
 
 - 🚀 Built multiple Full Stack applications.
 - 🤖 Developed several AI-powered projects.
@@ -158,57 +157,55 @@ Tech: Web Development | JavaScript
 - 🌐 Exploring modern web technologies.
 - ⚡ Continuously learning and building.
 
----
 
-📊 GitHub Analytics
+
+---📊 GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ajit9129353710&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajit9129353710&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>---
+</p>
 
-🔥 Contribution Streak
+---🔥 Contribution Streak
 
 <p align="center">
   <img width="75%" src="https://streak-stats.demolab.com?user=ajit9129353710&theme=tokyonight&hide_border=true"/>
-</p>---
+</p>
 
-📈 Contribution Activity Graph
+---📈 Contribution Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajit9129353710&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>---
+</p>
 
-🏅 GitHub Achievements
+---🏅 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ajit9129353710&theme=algolia&no-frame=true&no-bg=true&column=4"/>
-</p>---
+</p>
 
->🎮 GitHub Metrics Dashboard
+---🎮 GitHub Metrics Dashboard
 
 <p align="center">
   <img src="https://github.com/ajit9129353710/ajit9129353710/blob/main/github-metrics.svg" width="100%" alt="GitHub Metrics"/>
-</p>---
+</p>
 
-🐍 Watch My Contributions Get Eaten!
+---🐍 Watch My Contributions Get Eaten!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ajit9129353710/ajit9129353710/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation"/>
-</p>---
-🌐 Explore My Work
+</p>
+---🌐 Explore My Work
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/MY%20PORTFOLIO-Visit%20Website-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
+ 
 </p><p align="center">
   <a href="https://drive.google.com/file/d/1NEGA8INvOoroIeWUW2uvRAMt3-hM4xV-/view?usp=drivesdk">
     <img src="https://img.shields.io/badge/MY%20RESUME-View%20Resume-7B2FF7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
-</p>---
+</p>
 
-🌐 Connect With Me
+---🌐 Connect With Me
 
 <p align="center">
   <a href="https://github.com/ajit9129353710">
@@ -223,9 +220,9 @@ Tech: Web Development | JavaScript
   <a href="mailto:prajapatiajit183@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>---
+</p>
 
-<h2 align="center">💭 Developer's Philosophy</h2><p align="center">
+---<h2 align="center">💭 Developer's Philosophy</h2><p align="center">
   <i>"Great things are built one line of code at a time."</i>
 </p><h3 align="center">
   ⚡ THINK BIG. BUILD SMART. KEEP INNOVATING.
