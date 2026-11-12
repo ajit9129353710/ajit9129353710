@@ -203,7 +203,7 @@ Tech: Web Development | JavaScript
     <img src="https://img.shields.io/badge/MY%20PORTFOLIO-Visit%20Website-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p><p align="center">
-  <a href="YOUR_RESUME_URL">
+  <a href="https://drive.google.com/file/d/1NEGA8INvOoroIeWUW2uvRAMt3-hM4xV-/view?usp=drivesdk">
     <img src="https://img.shields.io/badge/MY%20RESUME-View%20Resume-7B2FF7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>---
